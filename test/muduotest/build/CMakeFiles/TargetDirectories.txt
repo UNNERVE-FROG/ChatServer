@@ -1,0 +1,3 @@
+/home/user/chatserver/muduotest/build/CMakeFiles/server.dir
+/home/user/chatserver/muduotest/build/CMakeFiles/edit_cache.dir
+/home/user/chatserver/muduotest/build/CMakeFiles/rebuild_cache.dir
