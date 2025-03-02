@@ -23,7 +23,8 @@
 					"childIndexes" : 
 					[
 						2,
-						3
+						3,
+						4
 					],
 					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
 					"minimumCMakeVersion" : 
@@ -63,6 +64,21 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "src/rpc",
+					"jsonFile" : "directory-src.rpc-Debug-7cfaa0b0de104e780152.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/rpc",
+					"targetIndexes" : 
+					[
+						2
+					]
 				}
 			],
 			"name" : "Debug",
@@ -74,13 +90,15 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					],
 					"name" : "chat",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -89,15 +107,22 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-Debug-156c217df15c41fe8fad.json",
+					"jsonFile" : "target-ChatClient-Debug-23b8e88acf9d78adb72c.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "ChatServer::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-ChatServer-Debug-e5a8c9562c5fdc4bead2.json",
+					"jsonFile" : "target-ChatServer-Debug-87b85b7acdbb24c76271.json",
 					"name" : "ChatServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "rpc::@c0b061266edb2b3621b8",
+					"jsonFile" : "target-rpc-Debug-c4fc8478b933ed0c1555.json",
+					"name" : "rpc",
 					"projectIndex" : 0
 				}
 			]

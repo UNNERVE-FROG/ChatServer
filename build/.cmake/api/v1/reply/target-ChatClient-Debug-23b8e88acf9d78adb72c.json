@@ -74,6 +74,12 @@
 				"file" : 1,
 				"line" : 15,
 				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 16,
+				"parent" : 3
 			}
 		]
 	},
@@ -98,18 +104,22 @@
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/user/chatserver/thirdparty"
+					"path" : "/home/user/chatserver/include/rpc"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/user/chatserver/include/server/db"
+					"path" : "/home/user/chatserver/thirdparty"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/user/chatserver/include/server/model"
+					"path" : "/home/user/chatserver/include/server/db"
 				},
 				{
 					"backtrace" : 9,
+					"path" : "/home/user/chatserver/include/server/model"
+				},
+				{
+					"backtrace" : 10,
 					"path" : "/home/user/chatserver/include/server/redis"
 				}
 			],

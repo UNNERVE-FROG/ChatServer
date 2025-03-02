@@ -46,6 +46,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/user/chatserver/build/src/server/cmake_install.cmake")
   include("/home/user/chatserver/build/src/client/cmake_install.cmake")
+  include("/home/user/chatserver/build/src/rpc/cmake_install.cmake")
 
 endif()
 

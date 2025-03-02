@@ -1,52 +1,92 @@
 [
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/user/chatserver/src/server/chatserver.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/user/chatserver/src/server/chatserver.cpp",
   "file": "/home/user/chatserver/src/server/chatserver.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/user/chatserver/src/server/chatservice.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/user/chatserver/src/server/chatservice.cpp",
   "file": "/home/user/chatserver/src/server/chatservice.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/user/chatserver/src/server/main.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/user/chatserver/src/server/main.cpp",
   "file": "/home/user/chatserver/src/server/main.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/user/chatserver/src/server/db/db.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/user/chatserver/src/server/db/db.cpp",
   "file": "/home/user/chatserver/src/server/db/db.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/user/chatserver/src/server/model/friendmodel.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/user/chatserver/src/server/model/friendmodel.cpp",
   "file": "/home/user/chatserver/src/server/model/friendmodel.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/user/chatserver/src/server/model/groupmodel.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/user/chatserver/src/server/model/groupmodel.cpp",
   "file": "/home/user/chatserver/src/server/model/groupmodel.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/user/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/user/chatserver/src/server/model/offlinemessagemodel.cpp",
   "file": "/home/user/chatserver/src/server/model/offlinemessagemodel.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/user/chatserver/src/server/model/usermodel.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/user/chatserver/src/server/model/usermodel.cpp",
   "file": "/home/user/chatserver/src/server/model/usermodel.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/user/chatserver/src/server/redis/redis.cpp",
+  "directory": "/home/user/chatserver/build/src/server",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/user/chatserver/src/server/redis/redis.cpp",
   "file": "/home/user/chatserver/src/server/redis/redis.cpp"
 },
 {
-  "directory": "/home/user/chatserver/build",
-  "command": "/usr/bin/c++ -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o src/client/CMakeFiles/ChatClient.dir/main.cpp.o -c /home/user/chatserver/src/client/main.cpp",
+  "directory": "/home/user/chatserver/build/src/client",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/user/chatserver/src/client/main.cpp",
   "file": "/home/user/chatserver/src/client/main.cpp"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/logger.cc.o -c /home/user/chatserver/src/rpc/logger.cc",
+  "file": "/home/user/chatserver/src/rpc/logger.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/mprpcapplication.cc.o -c /home/user/chatserver/src/rpc/mprpcapplication.cc",
+  "file": "/home/user/chatserver/src/rpc/mprpcapplication.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/mprpcchannel.cc.o -c /home/user/chatserver/src/rpc/mprpcchannel.cc",
+  "file": "/home/user/chatserver/src/rpc/mprpcchannel.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/mprpcconfig.cc.o -c /home/user/chatserver/src/rpc/mprpcconfig.cc",
+  "file": "/home/user/chatserver/src/rpc/mprpcconfig.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/mprpccontroller.cc.o -c /home/user/chatserver/src/rpc/mprpccontroller.cc",
+  "file": "/home/user/chatserver/src/rpc/mprpccontroller.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/rpcheader.pb.cc.o -c /home/user/chatserver/src/rpc/rpcheader.pb.cc",
+  "file": "/home/user/chatserver/src/rpc/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/rpcprovider.cc.o -c /home/user/chatserver/src/rpc/rpcprovider.cc",
+  "file": "/home/user/chatserver/src/rpc/rpcprovider.cc"
+},
+{
+  "directory": "/home/user/chatserver/build/src/rpc",
+  "command": "/usr/bin/c++  -I/home/user/chatserver/include -I/home/user/chatserver/include/server -I/home/user/chatserver/include/rpc -I/home/user/chatserver/thirdparty -I/home/user/chatserver/include/server/db -I/home/user/chatserver/include/server/model -I/home/user/chatserver/include/server/redis -g -g -o CMakeFiles/rpc.dir/zookeeperutil.cpp.o -c /home/user/chatserver/src/rpc/zookeeperutil.cpp",
+  "file": "/home/user/chatserver/src/rpc/zookeeperutil.cpp"
 }
 ]

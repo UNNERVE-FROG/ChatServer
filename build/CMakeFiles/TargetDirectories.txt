@@ -8,3 +8,6 @@
 /home/user/chatserver/build/src/client/CMakeFiles/ChatClient.dir
 /home/user/chatserver/build/src/client/CMakeFiles/edit_cache.dir
 /home/user/chatserver/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/user/chatserver/build/src/rpc/CMakeFiles/rpc.dir
+/home/user/chatserver/build/src/rpc/CMakeFiles/edit_cache.dir
+/home/user/chatserver/build/src/rpc/CMakeFiles/rebuild_cache.dir
